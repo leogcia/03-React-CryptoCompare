@@ -5,6 +5,7 @@
 
 -Diseñar una app React que compare el precio de una moneda contra criptomonedas. <br>
 -Dar estilo Css con Styled Components<br>
+-App Responsive<br>
 -Uso de State<br>
 -Uso de Hooks<br>
 -Información almacenada en localStorage<br>
@@ -19,4 +20,4 @@
 
 
 
-# Link:  https://02reactappcontrolpresupuesto.netlify.app/
+# Link:  https://03reactappcriptocompare.netlify.app/
